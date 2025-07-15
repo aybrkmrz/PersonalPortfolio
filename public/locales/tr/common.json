@@ -1,33 +1,51 @@
 {
   "headerTaglineOne": "Merhaba 👋",
-  "headerTaglineTwo": "Ben Chetan Verma - meraklı",
-  "headerTaglineThree": "tasarımcı ve geliştirici",
-  "headerTaglineFour": " Yeni Delhi, Hindistan merkezli.",
-  "aboutpara": "Lorem Ipsum, matbaacılık ve dizgi endüstrisinin basit bir taklit metnidir. 1500'lü yıllardan beri endüstrinin standart sahte metni olmuştur.",
+  "headerTaglineTwo": "Ben Ayberk Mirza",
+  "headerTaglineThree": "3 Boyutlu Ajansınız",
+  "headerTaglineFour": "Sosyal Medya, Foto & Video, Yazılım Uzmanı",
+  "aboutpara": "Yaratıcılığın, teknolojiyle buluştuğu noktada hizmet sunuyorum. Sosyal medya stratejileriyle markanızı dijital dünyada öne çıkarıyor; profesyonel fotoğraf ve video prodüksiyonuyla hikâyenizi görsele dönüştürüyor; aynı zamanda 3D tasarım ve özelleştirilmiş yazılım çözümleriyle projelerinize hayat veriyorum.",
   "services": [
     {
-      "title": "Sanat Yönetimi",
-      "description": "Görsel görünüme özellikle odaklanarak çevrim içi reklam fikirlerinin oluşturulması ve geliştirilmesine yardımcı oluyoruz."
+      "title": "Sosyal Medya Yönetimi",
+      "description": "Hedef kitlenizle gerçek bağlar kuracak yaratıcı içerik stratejileri geliştirin. Kampanya planlamasından günlük post üretimine kadar tam kapsamlı çözüm sunuyorum."
     },
     {
-      "title": "Markalaşma",
-      "description": "Logonuz, renk şemanız, tipografiniz ve markanızı öne çıkaracak tasarım bileşenlerini oluşturuyoruz."
+      "title": "Fotoğraf & Video Prodüksiyon",
+      "description": "Ürün, portre veya marka hikâyenizi göz alıcı karelere dönüştürüyorum. Stüdyo çekimlerinden dış mekan videolarına kadar profesyonel prodüksiyon hizmeti."
     },
     {
-      "title": "Web Tasarımı",
-      "description": "Çevrim içi varlığınızı inşa edip optimize ediyoruz. Web sitesi, işinizin dijital giriş kapısıdır."
+      "title": "Yazılım Geliştirme",
+      "description": "İhtiyacınıza özel web ve mobil uygulamalar tasarlayıp geliştiriyorum. Performans, ölçeklenebilirlik ve kullanıcı deneyimini ön planda tutan çözümler."
     },
     {
-      "title": "3D Tasarım",
-      "description": "Projelerinizi hayata geçiren etkileyici 3D görselleştirmeler tasarlıyoruz."
+      "title": "3D Tasarım & Görselleştirme",
+      "description": "Mimari görselleştirmelerden ürün prototiplerine kadar, projelerinizi üç boyutlu gerçeklik algısıyla sunan yüksek kaliteli 3D modeller üretiyorum."
     }
   ],
   "projects": [
-    { "title": "Proje Bir Test", "description": "Web Tasarımı" },
-    { "title": "Proje İki", "description": "Web Geliştirme" },
-    { "title": "Proje Üç", "description": "Tasarım" },
-    { "title": "Proje Dört", "description": "Pazarlama" },
-    { "title": "Proje Beş", "description": "Geliştirme" },
-    { "title": "Proje Altı", "description": "Tasarım & Geliştirme" }
+    {
+      "title": "Dijital Lansman Kampanyası",
+      "description": "Sosyal medyada etkileşim rekorları kıran bütünleşik içerik stratejisi."
+    },
+    {
+      "title": "Marka Tanıtım Filmi",
+      "description": "Profesyonel ekipmanla çekilen, duygusal bağ kuran tanıtım videosu."
+    },
+    {
+      "title": "Özel Web Uygulaması",
+      "description": "Kullanıcı odaklı arayüz ve güçlü backend mimarisiyle geliştirilen portal."
+    },
+    {
+      "title": "3D Mimari Görselleştirme",
+      "description": "Projelerinize hayat veren gerçekçi iç ve dış mekan renderları."
+    },
+    {
+      "title": "E-Ticaret Entegrasyonu",
+      "description": "Ödeme sistemleri ve ürün yönetimi modülleriyle eksiksiz satış deneyimi."
+    },
+    {
+      "title": "Sosyal Medya İçerik Dizisi",
+      "description": "Markanızın sesini yansıtan tutarlı ve stratejik gönderi serisi."
+    }
   ]
 }
