@@ -1,0 +1,33 @@
+{
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Chetan Verma - curious",
+  "headerTaglineThree": "designer and devloper",
+  "headerTaglineFour": " based in New Delhi, India.",
+  "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop...",
+  "services": [
+    {
+      "title": "Art Direction",
+      "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+    },
+    {
+      "title": "Branding",
+      "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+    },
+    {
+      "title": "Web Design",
+      "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+    },
+    {
+      "title": "3D Design",
+      "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+    }
+  ],
+  "projects": [
+    { "title": "Project One Test", "description": "Web Design" },
+    { "title": "Project Two", "description": "Web Development" },
+    { "title": "Project Three", "description": "Design" },
+    { "title": "Project Four", "description": "Marketing" },
+    { "title": "Project Five", "description": "Development" },
+    { "title": "Project Six", "description": "Design & Development" }
+  ]
+}

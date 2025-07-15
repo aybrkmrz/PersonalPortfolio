@@ -1,0 +1,33 @@
+{
+  "headerTaglineOne": "Merhaba 👋",
+  "headerTaglineTwo": "Ben Chetan Verma - meraklı",
+  "headerTaglineThree": "tasarımcı ve geliştirici",
+  "headerTaglineFour": " Yeni Delhi, Hindistan merkezli.",
+  "aboutpara": "Lorem Ipsum, matbaacılık ve dizgi endüstrisinin basit bir taklit metnidir. 1500'lü yıllardan beri endüstrinin standart sahte metni olmuştur.",
+  "services": [
+    {
+      "title": "Sanat Yönetimi",
+      "description": "Görsel görünüme özellikle odaklanarak çevrim içi reklam fikirlerinin oluşturulması ve geliştirilmesine yardımcı oluyoruz."
+    },
+    {
+      "title": "Markalaşma",
+      "description": "Logonuz, renk şemanız, tipografiniz ve markanızı öne çıkaracak tasarım bileşenlerini oluşturuyoruz."
+    },
+    {
+      "title": "Web Tasarımı",
+      "description": "Çevrim içi varlığınızı inşa edip optimize ediyoruz. Web sitesi, işinizin dijital giriş kapısıdır."
+    },
+    {
+      "title": "3D Tasarım",
+      "description": "Projelerinizi hayata geçiren etkileyici 3D görselleştirmeler tasarlıyoruz."
+    }
+  ],
+  "projects": [
+    { "title": "Proje Bir Test", "description": "Web Tasarımı" },
+    { "title": "Proje İki", "description": "Web Geliştirme" },
+    { "title": "Proje Üç", "description": "Tasarım" },
+    { "title": "Proje Dört", "description": "Pazarlama" },
+    { "title": "Proje Beş", "description": "Geliştirme" },
+    { "title": "Proje Altı", "description": "Tasarım & Geliştirme" }
+  ]
+}
