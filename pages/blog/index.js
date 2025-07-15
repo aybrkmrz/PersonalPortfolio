@@ -3,11 +3,12 @@ import Router, { useRouter } from "next/router";
 import { useEffect, useRef, useState } from "react";
 import { stagger } from "../../animations";
 import Button from "../../components/Button";
-import Cursor from "../../components/Cursor";
 import Header from "../../components/Header";
 import data from "../../data/portfolio.json";
+import Cursor from "/components/Cursor";
 import { ISOToDate, useIsomorphicLayoutEffect } from "../../utils";
 import { getAllPosts } from "../../utils/api";
+
 const Blog = ({ posts }) => {
   const showBlog = useRef(data.showBlog);
   const text = useRef();
@@ -90,7 +91,7 @@ const Blog = ({ posts }) => {
                   >
                     <img
                       className="w-full h-60 rounded-lg shadow-lg object-cover"
-                      src={post.image}
+                      src={post.imageUrl}
                       alt={post.title}
                     ></img>
                     <h2 className="mt-5 text-4xl">{post.title}</h2>
@@ -129,7 +130,7 @@ const Blog = ({ posts }) => {
 };
 
 export async function getStaticProps() {
-  const posts = getAllPosts([
+  const posts = await getAllPosts([
     "slug",
     "title",
     "image",
@@ -140,7 +141,7 @@ export async function getStaticProps() {
 
   return {
     props: {
-      posts: [...posts],
+      posts,
     },
   };
 }
